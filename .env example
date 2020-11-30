@@ -1,0 +1,12 @@
+DBUSER = ""
+DBPASS = ""
+DBHOST = "localhost"
+DBPORT = "3306"
+DBNAME = "example"
+
+MAIL_SERVER = "smtp.gmail.com"
+MAIL_PORT = 465
+MAIL_USE_SSL = "True"
+MAIL_DEBUG = "True"
+MAIL_USERNAME = ""
+MAIL_PASSWORD = ""
